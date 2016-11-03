@@ -1,0 +1,664 @@
+j t n u w d s p d n t i r k i s s o z t p b g z x
+n e n b g y i a r y o e n p a n s y o a n k w p u
+b o v i n f m r p o f s g t n o t e s l a f k a n
+v v h t r h k e x a m l i g e e r e n f k v p o f
+k t a t c p l n c i n p o r r r i k r e d o i t r
+n x r k y b s t l t a j t o a u n o w p f s q b o
+i o g o a p o h d o h t e m p p g e h u r b o o m
+a a i i p r m e t r u e j w x m m h t u l e h o i
+m y r t i m l s u n d e f i n e d o c t a i t l d
+e a v n c i i i c s h p d s e e b e c t n a v e r
+v j g a b n u s t i e y j p l t r j b h g i c a r
+l e a r n d u n h t n n z u u h l g r s u i e n f
+e q a n u h i f x y w t x u d i p h e v a q r e j
+i r z z v o s u w n s g e a o n r t s r g r a l q
+y j n m p b t s f h e n y g m k o g k k e t w u x
+n o i t i s o p m o c i a r e u r b f v d c t g y
+x h c q e n i h k n n g r e q r m l w e o l f e u
+o u t p u t b t a u w g r v y q o t b m o j o w u
+g y n d n u l o o w s u a r v a p o p i t u s y d
+h j w q l y c v s h o b b e t f j i a z n x i g f
+p l t c j f h c v p g e o s u x l b c o y p z h g
+h w z m w p t o q v x d s o z e n t d l w v u q x
+s s a p d q y d d o q b r m r a h c y p i f s t u
+z p x k s x v h i m a d v e p y g t q s q v y h l
+p r o g r a m u a o f z r o t a r e p o g u f j g
+
+able at (4 , 6) going Diagonal , Direction: Up, Right
+abos at (12 , 18) going Vertical: Down
+actor at (9 , 3) going Diagonal , Directions: Down, Left
+afro at (20 , 2) going Diagonal , Directions: Down, Left
+age at (15 , 22) going Diagonal , Direction: Down, Right
+aged at (20 , 12) going Vertical: Down
+ago at (12 , 15) going Diagonal , Direction: Up, Right
+ags at (21 , 9) going Diagonal , Directions: Down, Left
+aid at (8 , 24) going Vertical: Up
+ain at (0 , 7) going Vertical: Up
+air at (4 , 6) going Diagonal , Directions: Down, Left
+ait at (9 , 3) going Vertical: Down
+ait at (20 , 8) going Horizontal: Right
+als at (20 , 2) going Horizontal: Left
+ami at (10 , 23) going Horizontal: Left
+amu at (13 , 13) going Diagonal , Direction: Down, Right
+amu at (5 , 24) going Horizontal: Right
+ane at (14 , 1) going Vertical: Down
+ane at (23 , 10) going Vertical: Down
+ant at (21 , 9) going Horizontal: Left
+anti at (3 , 10) going Vertical: Up
+aol at (15 , 18) going Diagonal , Direction: Up, Right
+are at (22 , 13) going Vertical: Up
+are at (12 , 15) going Horizontal: Right
+are at (15 , 24) going Horizontal: Right
+arena at (14 , 5) going Vertical: Up
+arent at (7 , 1) going Vertical: Down
+argo at (5 , 24) going Horizontal: Left
+aria at (1 , 9) going Diagonal , Direction: Up, Right
+ark at (20 , 12) going Diagonal , Directions: Down, Left
+arm at (15 , 22) going Horizontal: Left
+array at (12 , 18) going Vertical: Up
+asp at (5 , 24) going Diagonal , Direction: Up, Left
+ass at (2 , 22) going Horizontal: Left
+atom at (21 , 9) going Diagonal , Direction: Up, Right
+ats at (15 , 18) going Diagonal , Directions: Down, Left
+aug at (20 , 12) going Vertical: Up
+aus at (12 , 18) going Horizontal: Left
+ave at (20 , 12) going Horizontal: Left
+aver at (21 , 9) going Horizontal: Right
+axe at (9 , 3) going Horizontal: Left
+aye at (12 , 15) going Vertical: Up
+aye at (15 , 18) going Diagonal , Direction: Up, Left
+ayin at (13 , 13) going Diagonal , Directions: Down, Left
+bag at (4 , 10) going Horizontal: Left
+barr at (12 , 19) going Vertical: Up
+bed at (18 , 10) going Diagonal , Direction: Up, Left
+bed at (18 , 17) going Diagonal , Direction: Up, Right
+bed at (11 , 19) going Vertical: Down
+bees at (16 , 9) going Horizontal: Left
+ben at (0 , 2) going Diagonal , Direction: Up, Right
+bet at (12 , 19) going Horizontal: Right
+bile at (4 , 10) going Diagonal , Direction: Up, Right
+bin at (18 , 17) going Diagonal , Direction: Down, Right
+bio at (6 , 17) going Vertical: Up
+bio at (17 , 20) going Vertical: Up
+bitt at (3 , 1) going Vertical: Down
+bond at (17 , 15) going Diagonal , Direction: Up, Left
+boolean at (23 , 5) going Vertical: Down
+boom at (21 , 6) going Horizontal: Right
+boor at (11 , 19) going Diagonal , Direction: Down, Right
+bos at (6 , 17) going Diagonal , Direction: Down, Right
+bos at (12 , 19) going Vertical: Down
+bot at (16 , 9) going Diagonal , Direction: Up, Right
+bra at (4 , 10) going Diagonal , Directions: Down, Left
+btu at (16 , 9) going Diagonal , Directions: Down, Left
+btu at (6 , 17) going Horizontal: Left
+bugging at (11 , 19) going Vertical: Up
+cafe at (8 , 4) going Diagonal , Direction: Up, Right
+cap at (18 , 20) going Vertical: Up
+car at (22 , 10) going Horizontal: Right
+cere at (21 , 15) going Diagonal , Direction: Up, Left
+charm at (17 , 22) going Horizontal: Left
+club at (3 , 20) going Diagonal , Direction: Up, Right
+cod at (7 , 20) going Vertical: Down
+coden at (18 , 8) going Horizontal: Left
+comparison at (18 , 9) going Diagonal , Direction: Up, Left
+compiler at (21 , 15) going Diagonal , Directions: Down, Left
+composition at (10 , 15) going Horizontal: Left
+coy at (2 , 16) going Diagonal , Direction: Up, Left
+coy at (18 , 20) going Horizontal: Right
+curs at (18 , 8) going Diagonal , Direction: Up, Right
+cut at (8 , 9) going Vertical: Up
+dam at (8 , 0) going Diagonal , Directions: Down, Left
+dam at (11 , 23) going Horizontal: Left
+day at (14 , 12) going Diagonal , Directions: Down, Left
+deb at (20 , 15) going Diagonal , Directions: Down, Left
+debs at (16 , 8) going Diagonal , Direction: Down, Right
+debugging at (11 , 21) going Vertical: Up
+dec at (24 , 8) going Diagonal , Directions: Down, Left
+dee at (10 , 8) going Diagonal , Direction: Up, Right
+defined at (10 , 8) going Horizontal: Right
+del at (16 , 8) going Diagonal , Directions: Down, Left
+deli at (8 , 6) going Diagonal , Directions: Down, Left
+den at (16 , 8) going Horizontal: Left
+dim at (24 , 8) going Vertical: Up
+dip at (14 , 12) going Horizontal: Right
+dix at (12 , 9) going Diagonal , Direction: Up, Right
+doc at (16 , 8) going Horizontal: Right
+doc at (7 , 22) going Vertical: Up
+doe at (11 , 21) going Diagonal , Direction: Up, Right
+doit at (20 , 4) going Horizontal: Right
+dome at (14 , 12) going Vertical: Down
+don at (18 , 21) going Diagonal , Direction: Up, Right
+duh at (10 , 8) going Vertical: Up
+dui at (5 , 11) going Diagonal , Direction: Up, Right
+dun at (5 , 11) going Horizontal: Right
+dun at (3 , 18) going Diagonal , Direction: Up, Right
+ear at (22 , 11) going Diagonal , Direction: Up, Right
+earn at (1 , 11) going Horizontal: Right
+eat at (21 , 7) going Diagonal , Directions: Down, Left
+eat at (23 , 12) going Diagonal , Directions: Down, Left
+ebb at (13 , 19) going Horizontal: Left
+ecu at (17 , 9) going Diagonal , Direction: Up, Right
+edh at (15 , 9) going Diagonal , Direction: Up, Right
+eds at (11 , 7) going Diagonal , Directions: Down, Left
+eer at (14 , 3) going Horizontal: Right
+eer at (14 , 15) going Diagonal , Directions: Down, Left
+efs at (11 , 7) going Diagonal , Direction: Down, Right
+eger at (12 , 13) going Diagonal , Direction: Down, Right
+egg at (11 , 1) going Diagonal , Direction: Down, Right
+elba at (7 , 3) going Diagonal , Directions: Down, Left
+eli at (7 , 7) going Diagonal , Directions: Down, Left
+eli at (15 , 21) going Diagonal , Direction: Up, Right
+eme at (17 , 6) going Diagonal , Directions: Down, Left
+eme at (15 , 8) going Diagonal , Direction: Up, Right
+enif at (15 , 8) going Horizontal: Left
+eons at (15 , 3) going Vertical: Up
+era at (7 , 3) going Vertical: Up
+era at (14 , 3) going Vertical: Down
+era at (22 , 11) going Vertical: Down
+era at (14 , 15) going Horizontal: Left
+erato at (17 , 24) going Horizontal: Left
+ere at (15 , 3) going Horizontal: Right
+ere at (17 , 3) going Horizontal: Left
+ere at (18 , 12) going Diagonal , Direction: Down, Right
+ere at (20 , 14) going Diagonal , Direction: Up, Left
+ere at (15 , 21) going Diagonal , Directions: Down, Left
+ere at (13 , 23) going Diagonal , Direction: Up, Right
+erg at (15 , 9) going Diagonal , Direction: Down, Right
+erg at (13 , 16) going Horizontal: Left
+erg at (13 , 16) going Vertical: Up
+ern at (0 , 12) going Diagonal , Direction: Down, Right
+erne at (14 , 3) going Diagonal , Direction: Down, Right
+err at (17 , 2) going Diagonal , Directions: Down, Left
+err at (20 , 14) going Diagonal , Direction: Up, Right
+ess at (17 , 2) going Diagonal , Direction: Up, Left
+eth at (12 , 6) going Horizontal: Left
+eth at (15 , 9) going Vertical: Down
+eton at (17 , 2) going Horizontal: Left
+eus at (7 , 7) going Diagonal , Direction: Down, Right
+eva at (18 , 12) going Horizontal: Right
+evan at (23 , 9) going Horizontal: Left
+ewe at (19 , 4) going Diagonal , Directions: Down, Left
+ewe at (17 , 6) going Diagonal , Direction: Up, Right
+exam at (7 , 3) going Horizontal: Right
+factoring at (10 , 2) going Diagonal , Directions: Down, Left
+false at (21 , 2) going Horizontal: Left
+fdr at (10 , 24) going Diagonal , Direction: Up, Right
+feat at (24 , 11) going Diagonal , Directions: Down, Left
+fed at (12 , 8) going Horizontal: Left
+fen at (20 , 5) going Diagonal , Direction: Up, Left
+fer at (10 , 2) going Diagonal , Direction: Up, Right
+feu at (22 , 16) going Horizontal: Right
+fined at (12 , 8) going Horizontal: Right
+flat at (19 , 3) going Vertical: Up
+flo at (10 , 2) going Diagonal , Direction: Down, Right
+floats at (18 , 15) going Diagonal , Directions: Down, Left
+floe at (22 , 16) going Horizontal: Left
+fon at (8 , 14) going Diagonal , Direction: Down, Right
+fop at (10 , 2) going Horizontal: Left
+fop at (24 , 3) going Horizontal: Left
+fop at (20 , 5) going Diagonal , Direction: Up, Right
+frog at (19 , 3) going Diagonal , Directions: Down, Left
+from at (24 , 3) going Vertical: Down
+fug at (22 , 24) going Horizontal: Left
+function at (7 , 12) going Diagonal , Direction: Up, Left
+gab at (2 , 10) going Horizontal: Right
+gae at (11 , 17) going Diagonal , Direction: Down, Right
+gag at (13 , 14) going Diagonal , Directions: Down, Left
+gag at (11 , 16) going Diagonal , Direction: Up, Right
+gam at (2 , 6) going Diagonal , Directions: Down, Left
+gam at (2 , 10) going Diagonal , Direction: Up, Left
+gat at (20 , 10) going Diagonal , Direction: Up, Right
+ged at (20 , 13) going Vertical: Down
+gee at (13 , 3) going Horizontal: Right
+gee at (2 , 10) going Diagonal , Directions: Down, Left
+geo at (11 , 13) going Diagonal , Directions: Down, Left
+geos at (10 , 20) going Horizontal: Right
+ger at (17 , 11) going Diagonal , Direction: Down, Right
+ger at (13 , 14) going Diagonal , Direction: Down, Right
+get at (12 , 2) going Diagonal , Direction: Up, Left
+get at (13 , 14) going Diagonal , Direction: Up, Left
+gil at (13 , 3) going Horizontal: Left
+gin at (11 , 16) going Vertical: Up
+girl at (20 , 10) going Diagonal , Direction: Down, Right
+goa at (2 , 6) going Horizontal: Right
+gor at (16 , 6) going Diagonal , Direction: Up, Right
+gor at (3 , 24) going Horizontal: Left
+gos at (10 , 20) going Vertical: Up
+gox at (0 , 18) going Vertical: Up
+gram at (3 , 24) going Horizontal: Right
+gul at (23 , 15) going Vertical: Up
+gyp at (16 , 23) going Horizontal: Left
+han at (10 , 6) going Vertical: Up
+harm at (16 , 22) going Horizontal: Left
+haw at (7 , 16) going Diagonal , Direction: Down, Right
+hen at (10 , 9) going Vertical: Down
+hen at (9 , 14) going Horizontal: Right
+hes at (7 , 6) going Vertical: Down
+hfs at (8 , 11) going Diagonal , Directions: Down, Left
+hfs at (9 , 14) going Horizontal: Left
+him at (1 , 16) going Diagonal , Direction: Up, Right
+him at (7 , 23) going Horizontal: Right
+hin at (22 , 7) going Diagonal , Directions: Down, Left
+hin at (15 , 11) going Vertical: Down
+hin at (7 , 16) going Horizontal: Left
+hob at (7 , 16) going Diagonal , Direction: Up, Left
+hob at (9 , 19) going Horizontal: Right
+hobs at (5 , 12) going Vertical: Down
+hod at (10 , 6) going Horizontal: Left
+hod at (6 , 20) going Diagonal , Direction: Down, Right
+hoe at (17 , 7) going Vertical: Down
+hon at (2 , 3) going Diagonal , Direction: Up, Left
+hon at (9 , 14) going Vertical: Down
+hop at (7 , 6) going Horizontal: Left
+hot at (9 , 19) going Diagonal , Direction: Up, Left
+hun at (5 , 12) going Horizontal: Left
+hus at (5 , 12) going Diagonal , Direction: Up, Right
+hyp at (7 , 23) going Diagonal , Direction: Up, Left
+ian at (14 , 0) going Vertical: Down
+ibm at (22 , 4) going Diagonal , Direction: Down, Right
+iced at (21 , 11) going Diagonal , Direction: Up, Right
+ifs at (20 , 22) going Horizontal: Right
+import at (6 , 9) going Diagonal , Direction: Up, Left
+ind at (5 , 9) going Vertical: Down
+inge at (4 , 8) going Diagonal , Directions: Down, Left
+ink at (0 , 6) going Vertical: Up
+ink at (15 , 12) going Vertical: Down
+inn at (6 , 9) going Diagonal , Directions: Down, Left
+input at (19 , 18) going Diagonal , Direction: Down, Right
+integer at (9 , 10) going Diagonal , Direction: Down, Right
+internet at (11 , 0) going Diagonal , Direction: Down, Right
+interpreter at (14 , 0) going Diagonal , Direction: Down, Right
+ion at (22 , 4) going Diagonal , Direction: Up, Right
+ion at (2 , 7) going Diagonal , Direction: Up, Left
+ion at (2 , 15) going Horizontal: Left
+ira at (12 , 3) going Diagonal , Direction: Down, Right
+ira at (3 , 7) going Diagonal , Directions: Down, Left
+irk at (11 , 0) going Horizontal: Right
+ito at (9 , 4) going Vertical: Down
+ito at (6 , 16) going Diagonal , Direction: Down, Right
+its at (9 , 10) going Horizontal: Left
+iva at (22 , 4) going Diagonal , Direction: Up, Left
+iva at (21 , 8) going Diagonal , Direction: Down, Right
+jan at (1 , 10) going Diagonal , Direction: Down, Right
+jay at (1 , 10) going Vertical: Up
+jay at (16 , 19) going Diagonal , Direction: Up, Left
+jet at (12 , 7) going Vertical: Up
+jeu at (12 , 7) going Horizontal: Left
+jew at (11 , 5) going Diagonal , Direction: Down, Right
+job at (16 , 19) going Diagonal , Direction: Up, Right
+jog at (11 , 5) going Diagonal , Direction: Up, Right
+jow at (21 , 17) going Horizontal: Right
+karl at (3 , 5) going Diagonal , Direction: Down, Right
+kex at (6 , 3) going Horizontal: Right
+khi at (8 , 16) going Horizontal: Left
+kiss at (13 , 0) going Horizontal: Right
+kor at (22 , 2) going Diagonal , Direction: Down, Right
+language at (20 , 7) going Vertical: Down
+lar at (23 , 13) going Horizontal: Left
+lat at (19 , 2) going Vertical: Up
+lean at (23 , 8) going Vertical: Down
+learn at (0 , 11) going Horizontal: Right
+led at (6 , 8) going Diagonal , Direction: Up, Right
+led at (14 , 10) going Diagonal , Direction: Up, Right
+lei at (0 , 11) going Vertical: Down
+len at (14 , 10) going Vertical: Up
+lena at (23 , 13) going Vertical: Up
+library at (6 , 8) going Diagonal , Directions: Down, Left
+lip at (16 , 20) going Diagonal , Direction: Up, Right
+lit at (6 , 8) going Diagonal , Direction: Down, Right
+loo at (19 , 2) going Diagonal , Direction: Up, Left
+loo at (23 , 8) going Vertical: Up
+loo at (6 , 18) going Horizontal: Right
+loop at (11 , 3) going Diagonal , Direction: Down, Right
+lou at (8 , 5) going Diagonal , Direction: Down, Right
+ltd at (6 , 4) going Diagonal , Direction: Down, Right
+lts at (8 , 5) going Horizontal: Left
+luge at (23 , 13) going Vertical: Down
+lux at (14 , 10) going Diagonal , Directions: Down, Left
+lux at (24 , 23) going Vertical: Up
+lyxs at (19 , 21) going Diagonal , Direction: Up, Right
+mad at (6 , 2) going Diagonal , Direction: Up, Right
+mad at (9 , 23) going Horizontal: Right
+mag at (0 , 8) going Diagonal , Direction: Up, Right
+mag at (0 , 8) going Diagonal , Direction: Down, Right
+main at (0 , 8) going Vertical: Up
+map at (3 , 21) going Diagonal , Directions: Down, Left
+mar at (13 , 6) going Diagonal , Direction: Up, Right
+margo at (6 , 24) going Horizontal: Left
+max at (10 , 3) going Horizontal: Left
+max at (14 , 14) going Diagonal , Direction: Up, Left
+meet at (15 , 7) going Vertical: Down
+met at (6 , 7) going Horizontal: Right
+method at (13 , 6) going Horizontal: Left
+mew at (16 , 7) going Diagonal , Direction: Up, Right
+mid at (24 , 6) going Vertical: Down
+mil at (10 , 3) going Diagonal , Directions: Down, Left
+min at (3 , 14) going Diagonal , Direction: Down, Right
+mind at (5 , 8) going Vertical: Down
+mis at (6 , 2) going Vertical: Up
+mis at (5 , 8) going Diagonal , Direction: Down, Right
+mit at (5 , 8) going Horizontal: Left
+mns at (15 , 7) going Diagonal , Directions: Down, Left
+module at (14 , 14) going Vertical: Up
+moo at (24 , 6) going Horizontal: Left
+mop at (16 , 16) going Vertical: Down
+mor at (10 , 3) going Diagonal , Direction: Up, Left
+mor at (13 , 6) going Vertical: Up
+mor at (24 , 6) going Vertical: Up
+mos at (6 , 7) going Vertical: Up
+mos at (13 , 22) going Vertical: Up
+mot at (24 , 6) going Diagonal , Directions: Down, Left
+mum at (14 , 14) going Diagonal , Direction: Down, Right
+mum at (16 , 16) going Diagonal , Direction: Up, Left
+nae at (23 , 11) going Vertical: Up
+nae at (11 , 14) going Diagonal , Direction: Down, Right
+nap at (15 , 1) going Horizontal: Left
+nap at (10 , 4) going Diagonal , Direction: Up, Left
+nap at (16 , 21) going Diagonal , Directions: Down, Left
+nave at (20 , 9) going Horizontal: Right
+navy at (4 , 11) going Diagonal , Direction: Up, Left
+neb at (2 , 0) going Diagonal , Directions: Down, Left
+ned at (14 , 8) going Horizontal: Right
+ness at (18 , 3) going Diagonal , Direction: Up, Left
+nett at (16 , 5) going Diagonal , Direction: Down, Right
+nib at (20 , 19) going Diagonal , Direction: Up, Left
+nim at (5 , 10) going Vertical: Up
+nim at (5 , 16) going Diagonal , Direction: Up, Left
+nis at (5 , 10) going Diagonal , Direction: Up, Right
+nob at (15 , 13) going Diagonal , Direction: Down, Right
+nod at (20 , 19) going Diagonal , Directions: Down, Left
+noe at (15 , 1) going Vertical: Down
+noh at (0 , 1) going Diagonal , Direction: Down, Right
+noh at (9 , 16) going Vertical: Up
+nos at (9 , 0) going Diagonal , Direction: Down, Right
+nos at (5 , 16) going Diagonal , Direction: Up, Right
+notes at (14 , 2) going Horizontal: Right
+nov at (2 , 1) going Diagonal , Directions: Down, Left
+now at (16 , 5) going Horizontal: Right
+nth at (7 , 4) going Vertical: Down
+nth at (0 , 5) going Diagonal , Direction: Up, Right
+nth at (9 , 8) going Diagonal , Direction: Up, Left
+nth at (10 , 11) going Horizontal: Left
+nus at (9 , 8) going Horizontal: Left
+nus at (5 , 10) going Horizontal: Right
+nut at (9 , 8) going Diagonal , Direction: Up, Right
+oak at (15 , 2) going Diagonal , Direction: Up, Left
+oak at (8 , 18) going Vertical: Up
+oats at (16 , 17) going Diagonal , Directions: Down, Left
+obe at (17 , 18) going Diagonal , Direction: Up, Right
+obs at (5 , 13) going Vertical: Down
+obs at (12 , 20) going Diagonal , Direction: Up, Left
+oct at (17 , 8) going Horizontal: Right
+odd at (9 , 22) going Horizontal: Left
+ode at (17 , 8) going Horizontal: Left
+ode at (20 , 16) going Vertical: Up
+oder at (21 , 4) going Horizontal: Left
+oer at (18 , 1) going Diagonal , Directions: Down, Left
+oer at (15 , 2) going Diagonal , Directions: Down, Left
+oer at (15 , 2) going Vertical: Down
+oes at (10 , 19) going Diagonal , Direction: Down, Right
+oft at (22 , 17) going Vertical: Up
+ohs at (10 , 19) going Horizontal: Left
+oil at (14 , 13) going Diagonal , Direction: Up, Right
+oke at (17 , 5) going Vertical: Up
+old at (22 , 17) going Diagonal , Direction: Up, Left
+olea at (23 , 7) going Vertical: Down
+ons at (15 , 2) going Vertical: Up
+ooh at (24 , 5) going Diagonal , Directions: Down, Left
+oot at (20 , 16) going Vertical: Down
+operator at (19 , 24) going Horizontal: Left
+ops at (2 , 24) going Diagonal , Direction: Up, Left
+opt at (5 , 13) going Diagonal , Directions: Down, Left
+ore at (13 , 5) going Diagonal , Direction: Up, Right
+ore at (16 , 17) going Diagonal , Direction: Up, Left
+orin at (6 , 6) going Diagonal , Directions: Down, Left
+orr at (12 , 4) going Horizontal: Right
+ort at (1 , 6) going Diagonal , Direction: Up, Right
+ort at (3 , 6) going Diagonal , Direction: Up, Left
+ose at (13 , 21) going Vertical: Up
+oss at (17 , 0) going Horizontal: Left
+otis at (8 , 18) going Diagonal , Direction: Up, Left
+our at (5 , 13) going Diagonal , Direction: Up, Left
+our at (10 , 19) going Diagonal , Direction: Up, Right
+output at (0 , 17) going Horizontal: Right
+pac at (18 , 18) going Vertical: Down
+pam at (1 , 23) going Diagonal , Direction: Up, Right
+pan at (8 , 2) going Diagonal , Direction: Down, Right
+pan at (14 , 23) going Diagonal , Direction: Up, Right
+pansy at (13 , 1) going Horizontal: Right
+pare at (14 , 6) going Vertical: Up
+parenthesis at (7 , 0) going Vertical: Down
+paris at (15 , 6) going Diagonal , Direction: Up, Left
+pas at (8 , 2) going Diagonal , Direction: Up, Left
+pase at (20 , 0) going Diagonal , Directions: Down, Left
+pass at (3 , 22) going Horizontal: Left
+pay at (4 , 7) going Vertical: Up
+pds at (11 , 9) going Horizontal: Right
+pee at (11 , 9) going Vertical: Up
+pee at (13 , 10) going Diagonal , Direction: Up, Right
+per at (18 , 24) going Horizontal: Left
+pest at (3 , 17) going Diagonal , Direction: Up, Right
+pet at (11 , 9) going Diagonal , Directions: Down, Left
+phs at (11 , 9) going Horizontal: Left
+phs at (0 , 20) going Vertical: Down
+pht at (7 , 15) going Vertical: Down
+pic at (4 , 7) going Vertical: Down
+pic at (16 , 18) going Diagonal , Direction: Down, Right
+pie at (4 , 14) going Vertical: Down
+pile at (18 , 18) going Diagonal , Directions: Down, Left
+pit at (7 , 15) going Diagonal , Directions: Down, Left
+pit at (18 , 18) going Horizontal: Right
+pitas at (11 , 4) going Diagonal , Direction: Up, Right
+pms at (5 , 6) going Diagonal , Direction: Down, Right
+pms at (14 , 23) going Diagonal , Direction: Up, Left
+poh at (5 , 6) going Horizontal: Right
+points at (4 , 14) going Diagonal , Direction: Up, Right
+pool at (14 , 6) going Diagonal , Direction: Up, Left
+pop at (16 , 18) going Horizontal: Right
+pop at (18 , 18) going Horizontal: Left
+port at (4 , 7) going Diagonal , Direction: Up, Left
+position at (7 , 15) going Horizontal: Left
+pour at (9 , 20) going Diagonal , Direction: Up, Right
+print at (5 , 4) going Diagonal , Direction: Up, Left
+pro at (16 , 12) going Vertical: Down
+program at (0 , 24) going Horizontal: Right
+prompt at (7 , 0) going Diagonal , Direction: Down, Right
+psi at (13 , 10) going Vertical: Up
+psi at (4 , 14) going Diagonal , Direction: Down, Right
+psi at (18 , 24) going Diagonal , Direction: Up, Right
+pure at (15 , 6) going Vertical: Up
+put at (3 , 17) going Horizontal: Right
+put at (21 , 20) going Diagonal , Direction: Down, Right
+python at (5 , 6) going Diagonal , Direction: Up, Left
+quotes at (14 , 16) going Diagonal , Direction: Up, Right
+rae at (24 , 9) going Diagonal , Directions: Down, Left
+rae at (3 , 11) going Horizontal: Left
+rah at (2 , 5) going Vertical: Up
+rah at (14 , 22) going Horizontal: Right
+ram at (15 , 4) going Diagonal , Directions: Down, Left
+ram at (4 , 24) going Horizontal: Right
+rant at (3 , 11) going Vertical: Up
+rap at (7 , 2) going Vertical: Up
+rap at (13 , 4) going Diagonal , Direction: Down, Right
+rap at (14 , 4) going Vertical: Down
+ras at (21 , 13) going Diagonal , Direction: Up, Left
+rato at (16 , 24) going Horizontal: Left
+raw at (22 , 12) going Vertical: Down
+ray at (12 , 16) going Vertical: Up
+rec at (22 , 12) going Vertical: Up
+rec at (19 , 13) going Diagonal , Direction: Down, Right
+recursion at (16 , 10) going Diagonal , Direction: Up, Right
+redo at (18 , 4) going Horizontal: Right
+ree at (16 , 3) going Horizontal: Left
+reek at (12 , 17) going Diagonal , Direction: Up, Right
+ref at (12 , 0) going Diagonal , Directions: Down, Left
+rena at (14 , 4) going Vertical: Up
+rent at (7 , 2) going Vertical: Down
+rep at (16 , 24) going Horizontal: Right
+res at (18 , 11) going Vertical: Down
+res at (13 , 18) going Vertical: Down
+ret at (14 , 4) going Diagonal , Direction: Up, Right
+ret at (15 , 4) going Diagonal , Direction: Up, Left
+ret at (18 , 4) going Diagonal , Direction: Up, Left
+ret at (12 , 22) going Diagonal , Direction: Down, Right
+rete at (20 , 6) going Diagonal , Direction: Down, Right
+rete at (24 , 10) going Diagonal , Direction: Up, Left
+rev at (21 , 13) going Diagonal , Directions: Down, Left
+rev at (13 , 15) going Vertical: Down
+reva at (24 , 9) going Horizontal: Left
+rid at (7 , 2) going Diagonal , Direction: Up, Left
+rig at (2 , 8) going Vertical: Up
+rig at (22 , 12) going Diagonal , Direction: Up, Left
+rin at (4 , 3) going Diagonal , Direction: Up, Left
+ring at (16 , 3) going Vertical: Down
+ring at (5 , 7) going Diagonal , Directions: Down, Left
+rns at (18 , 4) going Vertical: Up
+rns at (9 , 7) going Vertical: Down
+roe at (14 , 4) going Diagonal , Directions: Down, Left
+romp at (8 , 1) going Diagonal , Direction: Down, Right
+rot at (5 , 7) going Diagonal , Direction: Up, Right
+rot at (9 , 7) going Vertical: Up
+rota at (12 , 24) going Horizontal: Right
+rte at (9 , 7) going Horizontal: Left
+rue at (9 , 7) going Horizontal: Right
+ruer at (16 , 15) going Horizontal: Left
+rug at (14 , 4) going Diagonal , Direction: Down, Right
+sap at (6 , 0) going Diagonal , Direction: Down, Right
+sap at (18 , 2) going Diagonal , Direction: Up, Right
+sap at (1 , 22) going Horizontal: Right
+sati at (15 , 0) going Diagonal , Directions: Down, Left
+sec at (10 , 13) going Vertical: Down
+see at (13 , 9) going Horizontal: Right
+sei at (11 , 2) going Vertical: Up
+sei at (18 , 2) going Diagonal , Directions: Down, Left
+sen at (16 , 1) going Diagonal , Direction: Down, Right
+sen at (9 , 9) going Diagonal , Direction: Down, Right
+serb at (18 , 13) going Vertical: Up
+server at (13 , 20) going Vertical: Up
+set at (19 , 11) going Diagonal , Directions: Down, Left
+seton at (18 , 2) going Horizontal: Left
+sgt at (11 , 2) going Horizontal: Right
+shy at (7 , 10) going Diagonal , Direction: Down, Right
+sim at (6 , 0) going Vertical: Down
+simp at (7 , 10) going Diagonal , Direction: Up, Left
+sin at (7 , 8) going Diagonal , Directions: Down, Left
+sir at (11 , 2) going Diagonal , Direction: Down, Right
+sis at (7 , 8) going Vertical: Down
+sis at (7 , 10) going Vertical: Up
+sit at (9 , 9) going Vertical: Down
+sit at (5 , 15) going Diagonal , Direction: Down, Right
+siti at (5 , 15) going Horizontal: Left
+snap at (16 , 1) going Horizontal: Left
+soak at (8 , 19) going Vertical: Up
+sob at (8 , 19) going Diagonal , Direction: Up, Left
+sob at (12 , 21) going Vertical: Up
+software at (22 , 18) going Vertical: Up
+some at (13 , 20) going Vertical: Down
+son at (11 , 2) going Diagonal , Direction: Up, Left
+son at (7 , 14) going Diagonal , Directions: Down, Left
+sop at (5 , 15) going Horizontal: Right
+sprint at (6 , 5) going Diagonal , Direction: Up, Left
+stoa at (7 , 8) going Diagonal , Direction: Up, Right
+string at (16 , 1) going Vertical: Down
+stu at (5 , 15) going Diagonal , Direction: Up, Right
+stu at (22 , 22) going Horizontal: Right
+sue at (9 , 9) going Diagonal , Direction: Up, Left
+sui at (19 , 11) going Horizontal: Right
+sun at (7 , 8) going Horizontal: Right
+sun at (7 , 10) going Horizontal: Left
+syntax at (6 , 0) going Diagonal , Directions: Down, Left
+tae at (19 , 9) going Diagonal , Direction: Up, Right
+tae at (21 , 14) going Diagonal , Direction: Up, Right
+tags at (22 , 8) going Diagonal , Directions: Down, Left
+taj at (9 , 5) going Horizontal: Right
+tao at (14 , 19) going Diagonal , Direction: Up, Right
+tare at (14 , 24) going Horizontal: Right
+tas at (13 , 2) going Diagonal , Direction: Up, Right
+tat at (1 , 4) going Horizontal: Right
+tat at (3 , 4) going Horizontal: Left
+tau at (7 , 17) going Horizontal: Right
+taxi at (3 , 3) going Diagonal , Directions: Down, Left
+tcs at (6 , 21) going Diagonal , Direction: Up, Right
+tee at (11 , 6) going Vertical: Down
+teem at (15 , 10) going Vertical: Up
+teg at (10 , 0) going Diagonal , Direction: Down, Right
+teg at (11 , 12) going Diagonal , Direction: Down, Right
+temp at (11 , 6) going Horizontal: Right
+ten at (18 , 7) going Diagonal , Direction: Up, Left
+terne at (13 , 2) going Diagonal , Direction: Down, Right
+tesla at (16 , 2) going Horizontal: Right
+tet at (3 , 15) going Diagonal , Direction: Down, Right
+tet at (5 , 17) going Diagonal , Direction: Up, Left
+the at (9 , 5) going Diagonal , Direction: Down, Right
+the at (17 , 23) going Diagonal , Direction: Up, Left
+thesis at (7 , 5) going Vertical: Down
+think at (15 , 10) going Vertical: Down
+tho at (3 , 4) going Diagonal , Direction: Up, Left
+tho at (11 , 6) going Horizontal: Left
+tho at (22 , 8) going Vertical: Up
+ths at (8 , 7) going Diagonal , Direction: Up, Left
+ths at (19 , 9) going Vertical: Down
+thy at (17 , 21) going Diagonal , Directions: Down, Left
+tia at (9 , 5) going Vertical: Up
+tia at (22 , 8) going Horizontal: Left
+tie at (8 , 10) going Horizontal: Right
+til at (8 , 10) going Diagonal , Direction: Up, Left
+tim at (3 , 8) going Horizontal: Right
+tip at (13 , 2) going Diagonal , Directions: Down, Left
+tip at (5 , 17) going Diagonal , Direction: Up, Right
+tip at (20 , 18) going Horizontal: Left
+tis at (9 , 11) going Vertical: Up
+tis at (3 , 15) going Horizontal: Right
+tis at (7 , 17) going Diagonal , Direction: Up, Left
+toe at (19 , 0) going Diagonal , Directions: Down, Left
+tom at (22 , 8) going Diagonal , Direction: Up, Right
+ton at (16 , 2) going Horizontal: Left
+too at (20 , 18) going Vertical: Up
+tor at (14 , 24) going Horizontal: Left
+tori at (7 , 5) going Diagonal , Directions: Down, Left
+torn at (9 , 5) going Vertical: Down
+tour at (6 , 14) going Diagonal , Direction: Up, Left
+trop at (1 , 4) going Diagonal , Direction: Down, Right
+true at (8 , 7) going Horizontal: Right
+try at (3 , 8) going Horizontal: Left
+tule at (18 , 7) going Horizontal: Right
+tun at (11 , 6) going Diagonal , Directions: Down, Left
+tup at (5 , 17) going Horizontal: Left
+tup at (23 , 22) going Diagonal , Direction: Up, Left
+tux at (6 , 14) going Diagonal , Direction: Up, Right
+twa at (22 , 15) going Vertical: Up
+type at (10 , 0) going Diagonal , Directions: Down, Left
+tys at (17 , 21) going Diagonal , Direction: Down, Right
+udo at (14 , 11) going Vertical: Down
+ugh at (15 , 5) going Diagonal , Direction: Down, Right
+unction at (6 , 11) going Diagonal , Direction: Up, Left
+undefined at (8 , 8) going Horizontal: Right
+ups at (13 , 11) going Vertical: Up
+urs at (19 , 7) going Diagonal , Direction: Up, Right
+use at (8 , 8) going Diagonal , Direction: Down, Right
+uts at (7 , 13) going Diagonal , Directions: Down, Left
+uts at (24 , 22) going Horizontal: Left
+uzi at (22 , 21) going Vertical: Up
+van at (2 , 9) going Diagonal , Direction: Down, Right
+van at (22 , 9) going Horizontal: Left
+variable at (0 , 10) going Diagonal , Direction: Up, Right
+vin at (2 , 2) going Horizontal: Right
+vis at (21 , 21) going Diagonal , Directions: Down, Left
+voe at (1 , 3) going Vertical: Up
+von at (0 , 3) going Diagonal , Direction: Up, Right
+ware at (22 , 14) going Vertical: Up
+wisp at (13 , 7) going Vertical: Down
+woes at (9 , 18) going Diagonal , Direction: Down, Right
+won at (18 , 5) going Horizontal: Left
+wool at (9 , 18) going Horizontal: Left
+wus at (8 , 13) going Horizontal: Left
+wyo at (2 , 19) going Diagonal , Direction: Up, Left
+yap at (4 , 5) going Vertical: Down
+yar at (12 , 14) going Vertical: Down
+ybs at (4 , 5) going Horizontal: Right
+yeans at (14 , 17) going Diagonal , Direction: Up, Left
+yin at (12 , 14) going Diagonal , Directions: Down, Left
+yip at (23 , 18) going Diagonal , Directions: Down, Left
+zag at (14 , 21) going Diagonal , Direction: Down, Right
+zax at (2 , 21) going Vertical: Down
+zen at (14 , 21) going Horizontal: Right
